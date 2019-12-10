@@ -13,4 +13,7 @@ npm i --save-dev bootstrap
 
 # Install sass-loader
 npm i --save-dev sass-loader node-sass
+
+# Install html-webpack-plugin
+npm i --save-dev html-webpack-plugin
 ```
