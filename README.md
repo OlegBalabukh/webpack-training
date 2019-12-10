@@ -32,6 +32,9 @@ npm i --save-dev file-loader
 # Clean dist directory before each build
 npm i --save-dev clean-webpack-plugin
 
+# Install dependencies for using bootstrap.js
+npm i --save-dev jquery popper.js
+
 # Webpack dev server runs on http://localhost:8080
 # Detailed description https://github.com/Colt/webpack-demo-app/commits/master
 ```
