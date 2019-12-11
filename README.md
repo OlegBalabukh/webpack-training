@@ -35,6 +35,12 @@ npm i --save-dev clean-webpack-plugin
 # Install dependencies for using bootstrap.js
 npm i --save-dev jquery popper.js
 
+# Install plugin for extracting css in separate file in production
+npm i --save-dev mini-css-extract-plugin
+
+# Install plugin for minifying css
+npm i --save-dev optimize-css-assets-webpack-plugin
+
 # Webpack dev server runs on http://localhost:8080
 # Detailed description https://github.com/Colt/webpack-demo-app/commits/master
 ```
